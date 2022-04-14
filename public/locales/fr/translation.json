@@ -1,109 +1,24 @@
 {
-  "cv": {
-    "1": "Curriculum Vitae"
+  "Language Setting": {
+    "1": "Paramètres de langue"
   },
-  "Builder": {
-    "1": "Constructeur"
+  "Animals images": {
+    "1": "Photos d'animaux"
   },
-  "Language": {
-    "1": "Langue"
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+    "1": "Nous devons garder la terre saine et protéger l'environnement pour mettre en danger les animaux. La terre sera rapidement détruite sans ces créatures."
   },
-  "LOG IN": {
-    "1": " CONNEXION"
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+    "1": "Voyager est le meilleur moyen de changer l'esprit et le corps humain. Loin de l'agitation de la vie, toute personne normale devrait passer du temps dans l'année à voyager et à voyager."
   },
-  "SIGN IN": {
-    "1": "S'IDENTIFIER"
+  "People in chatroom": {
+    "1": "Personnes dans la salle de discussion"
   },
-  " Username": {
-    "1": "Nom d'utilisateur"
+
+  "I LOve You": {
+    "1": "Je t'aime"
   },
-  "Username": {
-    "2": "Nom d'utilisateur"
-  },
-  "Password": {
-    "1": "Mot de passe "
-  },
-  " Password": {
-    "2": "Mot de passe "
-  },
-  "Cancel": {
-    "1": "Annuler"
-  },
-  "Continue": {
-    "1": "Continuer"
-  },
-  "Email": {
-    "1": "E-mail"
-  },
-  "Remember me": {
-    "1": "Souviens-toi de moi"
-  },
-  "Light Mode": {
-    "1": "Mode lumière"
-  },
-  "Dark Mode": {
-    "1": "Mode sombre"
-  },
-  "Enter your information and then click the submit button": {
-    "1": "Entrez vos informations puis cliquez sur le bouton Soumettre"
-  },
-  "Name": {
-    "1": "Nom"
-  }, "Phone": {
-    "1": "Téléphone"
-  },
-  "Date": {
-    "1": "Date"
-  },
-  "professionnel": {
-    "1": "professional"
-  },
-  "Code Address": {
-    "1": "Adresse de code"
-  },
-  "City/Town": {
-    "1": "Ville/Ville"
-  },
-  "Education": {
-    "1": "Éducation"
-  },
-  "The work done": {
-    "1": "Le travail accompli"
-  },
-  "Unworked": {
-    "1": "non travaillé"
-  },
-  "Registered works": {
-    "1": "uvres enregistrées"
-  },
-  "All": {
-    "1": "Tout"
-  },
-  "Completed": {
-    "1": "Complété"
-  },
-  "Uncompleted": {
-    "1": "Inachevé"
-  },
-  "Send": {
-    "1": "Envoyer"
-  },
-  "MAN": {
-    "1": "HOMME"
-  },
-  "WOMAN": {
-    "1": "FEMME"
-  },
-  "Information": {
-    "1": "Informations"
-  },
-  "Web Designer": {
-    "1": "Concepteur Web "
-  },
-  "Address": {
-    "1": "Adresse"
-  },
-  "the profession": {
-    "1": "la profession"
+  "Strive to achieve your dreams": {
+    "1": "Efforcez-vous de réaliser vos rêves"
   }
 }

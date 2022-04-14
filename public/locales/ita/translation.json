@@ -1,107 +1,24 @@
 {
-    "cv": {
-      "1": "Curriculum vitae"
-    },
-    "Builder": {
-      "1": "Costruttore"
-    },
-    "Language": {
-      "1": "Lingua"
-    },
-    "LOG IN": {
-      "1": "ACCESSO"
-    },
-    "SIGN IN": {
-      "1": "REGISTRAZIONE"
-    },
-  
-    "Username": {
-      "1": "Nome utente"
-    },
-    "Password": {
-      "1": "Parola d'ordine"
-    },
-    "Cancel": {
-      "1": "Annulla"
-    },
-    "Continue": {
-      "1": "Continua"
-    },
-    "Email": {
-      "1": "E-mail"
-    },
-    "Remember me": {
-      "1": "Ricordati di me"
-    },
-    "Light Mode": {
-      "1": "Modalità luce"
-    },
-    "Dark Mode": {
-      "1": "Modalità scura"
-    },
-    "Enter your information and then click the submit button": {
-      "1": "Inserisci le tue informazioni e quindi fai clic sul pulsante di invio"
-    },
-    "Name": {
-      "1": "nome"
-    },
-    "Phone": {
-      "1": "Telefono"
-    },
-    "Date": {
-      "1": "Data"
-    },
-    "professional": {
-      "1": "professionale"
-    },
-    "Code Address": {
-      "1": "Codice Indirizzo"
-    },
-    "City/Town": {
-      "1": "città/paese"
-    },
-    "Education": {
-      "1": "F scolastica"
-    },
-    "The work done": {
-      "1": "Il lavoro fatto"
-    },
-    "Unworked": {
-      "1": "non lavorato "
-    },
-    "Registered works": {
-      "1": "Opere registrate"
-    }
-    ,
-    "All": {
-      "1": "Tutto"
-    },
-    "Completed": {
-      "1": "Completato"
-    },
-    "Uncompleted": {
-      "1": "Incompleto"
-    },
-    "Send": {
-      "1": "Spedire"
-    },
-    "MAN": {
-      "1": "UOMO"
-    },
-    "WOMAN": {
-      "1": "DONNA"
-    },
-    "Information": {
-      "1": "Informazione"
-    },
-    "Web Designer": {
-      "1": "Web designer"
-    },
-    "Address": {
-      "1": "Indirizzo"
-    },
-    "the profession": {
-      "1": "la professione"
-    }
+  "Language Setting": {
+    "1": "Impostazione della lingua"
+  },
+  "Animals images": {
+    "1": "Immagini di animali"
+  },
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+    "1": "Dobbiamo mantenere la terra sana e proteggere l'ambiente per mettere in pericolo gli animali. La terra sarà distrutta rapidamente senza queste creature."
+  },
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+    "1": "Viaggiare è il modo migliore per cambiare lo spirito e il corpo umano. Lontano dalla frenesia della vita, ogni persona normale dovrebbe trascorrere del tempo durante l'anno viaggiando e viaggiando."
+  },
+  "People in chatroom": {
+    "1": "Persone in chat"
+  },
+
+  "I LOve You": {
+    "1": "Ti voglio bene"
+  },
+  "Strive to achieve your dreams": {
+    "1": "Sforzati di realizzare i tuoi sogni"
   }
-  
+}

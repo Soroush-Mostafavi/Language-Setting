@@ -1,109 +1,24 @@
 {
-  "cv": {
-    "1": "السيرة الذاتية"
+  "Language Setting": {
+    "1": "إعدادات اللغة "
   },
-  "Builder": {
-    "1": "باني"
+  "Animals images": {
+    "1": "صور الحيوانات"
   },
-  "Language": {
-    "1": "   لغة   "
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+    "1": "يجب أن نحافظ على صحة الأرض ونحمي البيئة لتعريض الحيوانات للخطر. سيتم تدمير الأرض بسرعة بدون هذه المخلوقات."
   },
-  "LOG IN": {
-    "1": "   تسجيل دخول  "
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+    "1": "السفر هو أفضل طريقة لتغيير روح الإنسان وجسده. بعيدًا عن انشغال الحياة ، يجب على كل شخص عادي أن يقضي وقتًا في السنة في السفر والسفر."
   },
-  "SIGN IN": {
-    "1": " تسجيل الدخول"
+  "People in chatroom": {
+    "1": "الناس في غرف الدردشة"
   },
-  " Username": {
-    "1": "اسم المستخدم"
+
+  "I LOve You": {
+    "1": "انا احبك"
   },
-  "Username": {
-    "2": "اسم المستخدم"
-  },
-  "Password": {
-    "1": "كلمه السر"
-  },
-  " Password": {
-    "2": "كلمه السر"
-  },
-  "Cancel": {
-    "1": "يلغي"
-  },
-  "Continue": {
-    "1": " يكمل"
-  },
-  "Email": {
-    "1": "بريد الالكتروني"
-  },
-  "Remember me": {
-    "1": " تذكرنى"
-  },
-  "Light Mode": {
-    "1": " وضع الضوء"
-  },
-  "Dark Mode": {
-    "1": " الوضع الداكن"
-  },
-  "Enter your information and then click the submit button": {
-    "1": "  أدخل المعلومات الخاصة بك ثم انقر فوق الزر إرسال"
-  },
-  "Name": {
-    "1": "  اسم"
-  }, "Phone": {
-    "1": "  هاتف"
-  },
-  "Date": {
-    "1": "تاريخ"
-  },
-  "professional": {
-    "1": "المحترفين"
-  },
-  "Code Address": {
-    "1": " عنوان الرمز"
-  },
-  "City/Town": {
-    "1": "المدينة / البلدة"
-  },
-  "Education": {
-    "1": "  تعليم"
-  },
-  "The work done": {
-    "1": "  العمل انتهى"
-  },
-  "Unworked": {
-    "1": "غير مشغول"
-  },
-  "Registered works": {
-    "1": "  الأعمال المسجلة"
-  },
-  "All": {
-    "1": "  الجميع"
-  },
-  "Completed": {
-    "1": "   مكتمل"
-  },
-  "Uncompleted": {
-    "1": "  غير مكتمل"
-  },
-  "Send": {
-    "1": "  يرسل"
-  },
-  "MAN": {
-    "1": "رجل"
-  },
-  "WOMAN": {
-    "1": "النساء"
-  },
-  "Information": {
-    "1": "معلومة"
-  },
-  "Web Designer": {
-    "1": "  مصمم الويب"
-  },
-  "Address": {
-    "1": "  عنوان"
-  },
-  "the profession": {
-    "1": "  المهنة"
+  "Strive to achieve your dreams": {
+    "1": "نسعى جاهدين لتحقيق أحلامك"
   }
 }

@@ -1,106 +1,24 @@
 {
-    "cv": {
-      "1": "Резюме"
-    },
-    "Builder": {
-      "1": "Строитель"
-    },
-    "Language": {
-      "1": "Язык"
-    },
-    "LOG IN": {
-      "1": "АВТОРИЗОВАТЬСЯ"
-    },
-    "SIGN IN": {
-      "1": "ВОЙТИ"
-    },
-  
-    "Username": {
-      "1": "Имя пользователя"
-    },
-    "Password": {
-      "1": "Пароль"
-    },
-    "Cancel": {
-      "1": "Отмена"
-    },
-    "Continue": {
-      "1": "Продолжать"
-    },
-    "Email": {
-      "1": "Эл. адрес"
-    },
-    "Remember me": {
-      "1": "Запомнить меня "
-    },
-    "Light Mode": {
-      "1": "Легкий режим"
-    },
-    "Dark Mode": {
-      "1": "Темный режим"
-    },
-    "Enter your information and then click the submit button": {
-      "1": "Введите свою информацию и затем нажмите кнопку отправки"
-    },
-    "Name": {
-      "1": "Имя"
-    },
-    "Phone": {
-      "1": "Телефон"
-    },
-    "Date": {
-      "1": "Дата"
-    },
-    "professional": {
-      "1": "профессиональный"
-    },
-    "Code Address": {
-      "1": "Код Адрес"
-    },
-    "City/Town": {
-      "1": "Город/Город"
-    },
-    "Education": {
-      "1": "Образование"
-    },
-    "The work done": {
-      "1": "Проделанная работа"
-    },
-    "Unworked": {
-      "1": "Неработающий"
-    },
-    "Registered works": {
-      "1": "Зарегистрированные работы"
-    }
-    ,
-    "All": {
-      "1": "Все"
-    },
-    "Completed": {
-      "1": "Завершенный"
-    },
-    "Uncompleted": {
-      "1": "Незавершенный"
-    },
-    "Send": {
-      "1": "послать"
-    }  , "MAN": {
-      "1": "ЧЕЛОВЕК"
-    },
-    "WOMAN": {
-      "1": "ЖЕНЩИНА"
-    },
-    "Information": {
-      "1": "Информация"
-    },
-    "Web Designer": {
-      "1": "Веб-дизайнер"
-    },
-    "Address": {
-      "1": "Адрес"
-    },
-    "the profession": {
-      "1": "профессия"
-    }
+  "Language Setting": {
+    "1": "Настройка языка"
+  },
+  "Animals images": {
+    "1": "Изображения животных"
+  },
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+    "1": "Мы должны сохранить землю здоровой и защитить окружающую среду, чтобы подвергнуть опасности животных. Земля быстро разрушится без этих существ."
+  },
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+    "1": "Путешествие – лучший способ изменить человеческий дух и тело. Вдали от суеты жизни каждый нормальный человек должен проводить время в году, путешествуя и путешествуя."
+  },
+  "People in chatroom": {
+    "1": "Люди в чате"
+  },
+
+  "I LOve You": {
+    "1": "Я люблю тебя"
+  },
+  "Strive to achieve your dreams": {
+    "1": "Стремитесь к достижению своей мечты"
   }
-  
+}
