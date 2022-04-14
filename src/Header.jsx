@@ -9,6 +9,7 @@ import MenuItem from "@mui/material/MenuItem";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { useState } from "react";
 
+
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
   ...theme.typography.body2,
@@ -64,24 +65,115 @@ const Header = () => {
                 onClose={handleClose}
                 PaperProps={{
                   style: {
+                      width:"600px",
                     maxHeight: ITEM_HEIGHT * 4.5,
                   },
                 }}
               >
                 <div>
                   <MenuItem onClick={handleClose}>
-                    <Button variant="primary">Engish</Button>
-                    <Button variant="primary">French</Button>
-                    <Button variant="primary">Arabic</Button>
-                    <Button variant="primary">Spanish</Button>
-                    <Button variant="primary">Japanese</Button>
+                    <Button variant="primary">
+                      Engish{" "}
+                      <img
+                        src="img/United_Kingdom.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      French{" "}
+                      <img
+                        src="img/france.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Arabic{" "}
+                      <img
+                        src="img/United_Arab_Emirates_(3-2).svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Spanish{" "}
+                      <img
+                        src="img/Spain.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Japanese{" "}
+                      <img
+                        src="img/Japon.jpg"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
                   </MenuItem>{" "}
                   <MenuItem onClick={handleClose}>
-                    <Button variant="primary">Germany</Button>
-                    <Button variant="primary">Persian</Button>
-                    <Button variant="primary">Italian</Button>
-                    <Button variant="primary">India</Button>
-                    <Button variant="primary">Chinese</Button>
+                    <Button variant="primary">
+                      Germany{" "}
+                      <img
+                        src="img/Germany.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Russian{" "}
+                      <img
+                        src="img/Russia.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Italian{" "}
+                      <img
+                        src="img/Italy.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      S.Korean{" "}
+                      <img
+                        src="img/South_Korea.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
+                    <Button variant="primary">
+                      Holand{" "}
+                      <img
+                        src="img/Netherlands.svg.png"
+                        alt="image"
+                        width="30px"
+                        height="20px"
+                        style={{ marginLeft: "10px" }}
+                      />{" "}
+                    </Button>
                   </MenuItem>
                 </div>
               </Menu>
