@@ -5,10 +5,10 @@
   "Animals images": {
     "1": "صور الحيوانات"
   },
-  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures": {
     "1": "يجب أن نحافظ على صحة الأرض ونحمي البيئة لتعريض الحيوانات للخطر. سيتم تدمير الأرض بسرعة بدون هذه المخلوقات."
   },
-  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling": {
     "1": "السفر هو أفضل طريقة لتغيير روح الإنسان وجسده. بعيدًا عن انشغال الحياة ، يجب على كل شخص عادي أن يقضي وقتًا في السنة في السفر والسفر."
   },
   "People in chatroom": {
@@ -20,5 +20,12 @@
   },
   "Strive to achieve your dreams": {
     "1": "نسعى جاهدين لتحقيق أحلامك"
+  },
+  "Share": {
+    "1": "شارك"
+  },
+  "Learn More": {
+    "1": "يتعلم أكثر"
   }
+  
 }

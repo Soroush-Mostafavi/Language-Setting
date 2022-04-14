@@ -13,6 +13,7 @@ import Mainchild from "./Mainchild";
 import QuiltedImageList from "./Imagelist";
 import Avatar from "@mui/material/Avatar";
 import AvatarGroup from "@mui/material/AvatarGroup";
+import { useTranslation } from 'react-i18next';
 
 const bull = (
   <Box
@@ -30,6 +31,7 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 const Main = () => {
+  const { t} = useTranslation();
   return (
     <Fragment>
       <Box sx={{ width: "100%" }}>
@@ -53,22 +55,20 @@ const Main = () => {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  Animals images
+                  {t("Animals images.1")}
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  We must keep the earth healthy and protect the environment to
-                  endanger animals. The earth will be destroyed quickly without
-                  these creatures.
+                 {t("We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.1")}
                 </Typography>
               </CardContent>
               <CardActions>
-                <Button size="small">Share</Button>
-                <Button size="small">Learn More</Button>
+                <Button size="small">{t("Share.1")}</Button>
+                <Button size="small">{t("Learn More.1")}</Button>
               </CardActions>
             </Card>
           </Grid>
           <Grid item xs={6}>
-            <h4 style={{ marginLeft: "100px" }}> People in chatroom</h4>
+            <h4 style={{ marginLeft: "100px" }}> {t("People in chatroom.1")}</h4>
             <AvatarGroup
               style={{
                 color: "black",
@@ -105,16 +105,16 @@ const Main = () => {
                 Forward{bull}to{bull}00{bull}victory
                 </Typography>
                 <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                  I LOve You
+                  {t("I LOve You.1")}
                 </Typography>
                 <Typography variant="body2">
-                Strive to achieve your dreams
+                {t("Strive to achieve your dreams.1")}
                   <br />
                   {'"a benevolent smile"'}
                 </Typography>
               </CardContent>
               <CardActions>
-                <Button size="small">Learn More</Button>
+                <Button size="small">{t("Learn More.1")}</Button>
               </CardActions>
             </Card>
           </Grid>

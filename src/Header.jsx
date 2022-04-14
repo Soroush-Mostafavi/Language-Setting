@@ -185,12 +185,12 @@ const Header = () => {
                   </MenuItem>
                 </div>
               </Menu>
-              <h4>Language Setting </h4>
+              <h4>{t("Language Setting.1")} </h4>
             </div>
           </Item>
         </Grid>
         <Grid item xs={6} md={4}>
-          <Item1>Sorousht mini project</Item1>
+          <Item1>Soroush mini project</Item1>
         </Grid>
       </Grid>
     </Box>

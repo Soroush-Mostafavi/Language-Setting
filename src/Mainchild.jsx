@@ -14,6 +14,7 @@ import ShareIcon from "@mui/icons-material/Share";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 import { faker } from "@faker-js/faker";
+import { useTranslation } from 'react-i18next';
 
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
@@ -28,7 +29,8 @@ const ExpandMore = styled((props) => {
 
 const Mainchild = () => {
   const [expanded, setExpanded] = React.useState(false);
-
+  const { t} = useTranslation();
+  
   const handleExpandClick = () => {
     setExpanded(!expanded);
   };
@@ -67,9 +69,7 @@ const Mainchild = () => {
           variant="body2"
           color="text.secondary"
         >
-          Traveling is the best way to change the human spirit and body. Away
-          from the busyness of life, every normal person should spend time in
-          the year traveling and traveling.
+          {t("Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.1")}
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
