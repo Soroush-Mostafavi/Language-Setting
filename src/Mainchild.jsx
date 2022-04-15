@@ -90,26 +90,17 @@ const Mainchild = () => {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          <Typography paragraph>Method:</Typography>
+          <Typography paragraph>{t("Method.1")}:</Typography>
           <Typography paragraph>
-          Traveling or Travelling?
+          {t("Traveling or Travelling.1")}?
           </Typography>
           <Typography paragraph>
-            It’s wonderful to travel—to meet new people, see new places,
-            experience different cultures, live life the way life is lived
-            somewhere else. Plenty of good things are associated with travel,
-            but there’s one particular issue that can make traveling annoying:
-            the spelling. Travel is easy enough to spell and not at all
-            confusing, but “traveling,” “traveler,” “traveled”? 
+            {t("It’s wonderful to travel—to meet new people, see new places,experience different cultures, live life the way life is lived somewhere else. Plenty of good things are associated with travel.1")}
+            {t("but there’s one particular issue that can make traveling annoying: the spelling. Travel is easy enough to spell and not at all confusing, but “traveling,” “traveler,” “traveled.1")}”? 
           </Typography>
           <Typography paragraph>
-          These words are
-            a common cause of confusion because some people spell them with one
-            L while others use two. Traveling or travelling depends on where is
-            your audience. Traveling is the preferred spelling in the U.S.
-            Travelling is the preferred spelling in the UK or in the
-            Commonwealth. This American-British spelling difference carries for
-            other forms: traveled or travelled and traveler or traveller.
+          {t("These words are a common cause of confusion because some people spell them with one L while others use two. Traveling or travelling depends on where is.1")}
+            {t("your audience. Traveling is the preferred spelling in the U.S. Travelling is the preferred spelling in the UK or in the Commonwealth. This American-British spelling difference carries for other forms: traveled or travelled and traveler or traveller.1")}.
           </Typography>
           <Typography>
            Soroush Mostafavi
