@@ -8,7 +8,7 @@
   "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
     "1": "Nous devons garder la terre saine et protéger l'environnement pour mettre en danger les animaux. La terre sera rapidement détruite sans ces créatures."
   },
-  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling": {
     "1": "Voyager est le meilleur moyen de changer l'esprit et le corps humain. Loin de l'agitation de la vie, toute personne normale devrait passer du temps dans l'année à voyager et à voyager."
   },
   "People in chatroom": {
@@ -20,5 +20,29 @@
   },
   "Strive to achieve your dreams": {
     "1": "Efforcez-vous de réaliser vos rêves"
+  },
+  "Share": {
+    "1": "Partager"
+  },
+  "Learn More": {
+    "1": "Apprendre encore plus"
+  },
+  "Traveling or Travelling": {
+    "1": "Voyager ou voyager"
+  },
+  "Method": {
+    "1": "Méthode"
+  },
+  "It’s wonderful to travel—to meet new people, see new places,experience different cultures, live life the way life is lived somewhere else. Plenty of good things are associated with travel": {
+    "1": "C'est merveilleux de voyager - de rencontrer de nouvelles personnes, de voir de nouveaux endroits, de découvrir différentes cultures, de vivre la vie comme on la vit ailleurs. Beaucoup de bonnes choses sont associées aux voyages"
+  },
+  "but there’s one particular issue that can make traveling annoying: the spelling. Travel is easy enough to spell and not at all confusing, but “traveling,” “traveler,” “traveled": {
+    "1": "mais il y a un problème particulier qui peut rendre les voyages ennuyeux : l'orthographe. Le voyage est assez facile à épeler et pas du tout déroutant, mais voyage, voyageur, voyagé"
+  },
+  "These words are a common cause of confusion because some people spell them with one L while others use two. Traveling or travelling depends on where is": {
+    "1": "Ces mots sont une cause courante de confusion car certaines personnes les épellent avec un L tandis que d'autres en utilisent deux. Voyager ou voyager dépend de l'endroit où se trouve"
+  },
+  "your audience. Traveling is the preferred spelling in the U.S. Travelling is the preferred spelling in the UK or in the Commonwealth. This American-British spelling difference carries for other forms: traveled or travelled and traveler or traveller": {
+    "1": "votre public. Voyager est l'orthographe préférée aux États-Unis. Voyager est l'orthographe préférée au Royaume-Uni ou dans le Commonwealth. Cette différence d'orthographe américano-britannique porte pour d'autres formes : voyagé ou voyagé et voyageur ou voyageur"
   }
 }

@@ -5,10 +5,10 @@
   "Animals images": {
     "1": "動物の画像"
   },
-  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures.": {
+  "We must keep the earth healthy and protect the environment to endanger animals. The earth will be destroyed quickly without these creatures": {
     "1": "私たちは地球を健康に保ち、動物を危険にさらすために環境を保護しなければなりません。地球はこれらの生き物なしですぐに破壊されます。"
   },
-  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling.": {
+  "Traveling is the best way to change the human spirit and body. Away from the busyness of life, every normal person should spend time in the year traveling and traveling": {
     "1": "旅行は人間の精神と体を変える最良の方法です。忙しい生活から離れて、すべての普通の人は旅行と旅行で一年中時間を過ごすべきです。"
   },
   "People in chatroom": {
@@ -20,5 +20,29 @@
   },
   "Strive to achieve your dreams": {
     "1": "あなたの夢を達成するために努力してください"
+  },
+  "Share": {
+    "1": "シェア"
+  },
+  "Learn More": {
+    "1": "もっと詳しく知る"
+  },
+  "Traveling or Travelling": {
+    "1": "旅行または旅行"
+  },
+  "Method": {
+    "1": "方法"
+  },
+  "It’s wonderful to travel—to meet new people, see new places,experience different cultures, live life the way life is lived somewhere else. Plenty of good things are associated with travel": {
+    "1": "旅行するのは素晴らしいことです。新しい人と出会い、新しい場所を見て、さまざまな文化を体験し、他の場所での生活と同じように生活することができます。たくさんの良いことが旅行に関連しています"
+  },
+  "but there’s one particular issue that can make traveling annoying: the spelling. Travel is easy enough to spell and not at all confusing, but “traveling,” “traveler,” “traveled": {
+    "1": "しかし、旅行を煩わしくする可能性のある特定の問題が1つあります。それは、つづりです。旅行は綴るのに十分簡単で、まったく混乱することはありませんが、「旅行」、「旅行者」、「旅行」."
+  },
+  "These words are a common cause of confusion because some people spell them with one L while others use two. Traveling or travelling depends on where is": {
+    "1": "これらの単語は、1つのLで綴る人もいれば、2つを使用する人もいるため、混乱の一般的な原因です。旅行または旅行はどこにあるかによって異なります"
+  },
+  "your audience. Traveling is the preferred spelling in the U.S. Travelling is the preferred spelling in the UK or in the Commonwealth. This American-British spelling difference carries for other forms: traveled or travelled and traveler or traveller": {
+    "1": "あなたの聴衆。旅行は、米国で推奨されるスペルです。英国または連邦では、旅行が推奨されるスペルです。このアメリカ英語のつづりの違いは、他の形式にも当てはまります。旅行者または旅行者と旅行者または旅行者"
   }
 }
